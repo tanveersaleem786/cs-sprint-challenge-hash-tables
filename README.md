@@ -62,14 +62,14 @@ For each problem that you choose to solve, complete the following:
 
 After finishing your required elements, you can push your work further. These goals may or may not be things you have learned in this module, but they build on the material you just studied. Time allowing, stretch your limits, and see if you can deliver on the following optional goals:
 
-- [ ] Solve any four of the five problems
-- [ ] Solve all five problems
+- [X] Solve any four of the five problems
+- [X] Solve all five problems
 
 ## Submission format
 
 Follow these steps to complete your project.
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
-- [ ] Add your team lead as a reviewer on the pull-request
-- [ ] Your team lead will count the project as complete after receiving your pull-request
+- [X] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [X] Add your team lead as a reviewer on the pull-request
+- [X] Your team lead will count the project as complete after receiving your pull-request
 
